@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+import os, sys
+pwd = os.path.dirname(__file__)
+if pwd == '': pwd = '.'
+sys.path.append(pwd + '/../lib')
+
 import logging
 import tornado.options
 import tornado.web

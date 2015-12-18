@@ -1,6 +1,6 @@
 {
- "external-ip": "85.25.198.211",
- "seeds": ["tcp://85.25.198.213:8889"],
+ "external-ip": "127.0.0.1",
+ "seeds": ["tcp://www.dash.org:8889"],
  "websocket-port": 8888,
  "p2p-port": 8889,
  "broadcaster-url": "tcp://localhost:9109",
