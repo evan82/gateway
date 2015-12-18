@@ -1,3 +1,4 @@
 pyelliptic
 ecdsa
+twisted
 tornado==3.2.2

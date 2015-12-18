@@ -23,8 +23,8 @@ Get python-obelisk and set your PYTHONPATH accordingly:
 
 Install some final dependencies as root:
 
-  # apt-get install python-pip python-twisted
-  # pip install tornado pyelliptic ecdsa
+  # apt-get install python-pip
+  # sudo pip install -r requirements.txt
 
   $ cd daemon/txrad/
   $ make
